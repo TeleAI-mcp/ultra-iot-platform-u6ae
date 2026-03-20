@@ -1,2 +1,3 @@
-# ultra-iot-platform-u6ae
-Automated issue comment bot repository
+# Ultra Iot Platform U6Ae
+
+Automated issue comment bot repository.
